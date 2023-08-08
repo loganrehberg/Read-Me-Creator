@@ -32,7 +32,8 @@ Install the required dependencies:
 
 ## Usage
 
-![Peep the vid ]("https://youtu.be/BOo29j_O50w")
+[![Watch the video](https://youtu.be/BOo29j_O50w)
+
 
 To generate a professional README, follow these steps:
 
