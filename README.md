@@ -37,7 +37,7 @@ To generate a professional README, follow these steps:
     Open your terminal and navigate to the directory where you've cloned the repository.
     Run the application:
 
-    sh
+    
 
     node index.js
 
