@@ -14,22 +14,23 @@ A command-line application that generates professional README.md files using Nod
 ## Installation
 1. Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 2. Clone this repository to your local machine using:
-   ```sh
+   ```
    git clone https://github.com/loganrehberg/Read-Me-Creator.git
 
     Navigate to the cloned directory:
 
-    sh
+    ```
 
 cd Read-Me-Creator
 
 Install the required dependencies:
 
-sh
+```
 
     npm install
+```
 
-Usage
+## Usage
 
 To generate a professional README, follow these steps:
 
@@ -43,7 +44,7 @@ To generate a professional README, follow these steps:
     Answer the prompted questions to provide information about your project.
     Once you've answered all the questions, a README.md file will be generated in the same directory.
 
-Features
+## Features
 
     Interactive command-line interface using Inquirer.
     Automatically generates sections for Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
